@@ -6,3 +6,4 @@ dotenv
 pyenum
 pydantic
 asyncpg
+pytest
