@@ -3,5 +3,6 @@ fastapi
 sqlalchemy 
 psycopg2
 dotenv
-PyEnum
+pyenum
 pydantic
+asyncpg
